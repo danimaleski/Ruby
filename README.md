@@ -1,3 +1,2 @@
 # Ruby
-Aulas de Ruby 
-Para testes automatizados
+Aulas de Ruby para testes automatizados
